@@ -1,6 +1,5 @@
 # Sobre mi
 
-![](../images/hola/hola.png)
+![](../images/hola/git.png)
 
-Soy Mathias Rodriguez
-
+**test**
