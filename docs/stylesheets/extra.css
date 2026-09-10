@@ -32,6 +32,23 @@
   color: rgb(32, 32, 32);
 }
 
+.about-content {
+  text-align: center;
+}
+
+.about-image-row {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: center;
+  gap: 16px;
+}
+
+.about-image-row img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 .md-typeset h2 {
     font-weight: 500;
 }
